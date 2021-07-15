@@ -1,8 +1,8 @@
-## Semantic Web Technologies and Knowledge Graphs
+## Semantic Web Technologies and Knowledge Graphs (SWT&KG)
 
 ### Academic year 2020-2021: 
 
-Module delivered to MSc students in Data Science.
+Module delivered to MSc students in Data Science (INM713).
 
 - Introduction: Becoming a Knowledge Scientist. [Slides](). [Report](). [Laboratory]().
 - RDF-based Knowledge Graphs. [Slides](). [Laboratory]().
