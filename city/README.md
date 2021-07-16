@@ -18,3 +18,5 @@ Module delivered to MSc students in Data Science (INM713).
 Lab codes and solutions: [https://github.com/city-knowledge-graphs](https://github.com/city-knowledge-graphs)
 
 Coursework: [description](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Coursework.pdf), [data](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_coursework_data_pizza_8358_1_reduced.csv).
+
+Module leader: [Ernesto Jimenez-Ruiz](https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz)
