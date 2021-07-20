@@ -6,6 +6,9 @@ Module leader: [Ernesto Jimenez-Ruiz](https://www.city.ac.uk/about/people/academ
 
 Module delivered to MSc students in Data Science (INM713).
 
+Suggested [reading list](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/ReadingList.md).
+
+
 1. Introduction: Becoming a Knowledge Scientist. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Introduction_Knowledge_Scientist_slides.pdf). [Report](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Introduction_Knowledge_Scientist.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Lab_Session1.pdf).
 2. RDF-based Knowledge Graphs. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_RDF_Knowledge_Graphs.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Lab_Session2.pdf).
 3. SPARQL Query Language. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_SPARQL1.0.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Lab_Session3.pdf).
