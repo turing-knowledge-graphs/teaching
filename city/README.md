@@ -15,7 +15,12 @@ Module delivered to MSc students in Data Science (INM713).
 9. Ontology (Knowledge Graph) Embeddings. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Ontology_Embeddings.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Lab_Session9.pdf).
 10. Overview of Graph Databases and Triplestores. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Overview_Graph_Databases.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Lab_Session10.pdf).
 
-Lab codes and solutions: [https://github.com/city-knowledge-graphs](https://github.com/city-knowledge-graphs)
+Lab codes and solutions (python and java): 
+- [https://github.com/city-knowledge-graphs](https://github.com/city-knowledge-graphs)
+- Main libraries: 
+  - ***Java***: [Jena](https://jena.apache.org/index.html): complete library to create RDF triples, execute SPARQL queries, access ontology data, perform RDFS and OWL reasoning (although not built-in OWL 2 reasoning).
+  - ***Python***: [Owlready2](https://pypi.org/project/Owlready2/) (good option to access an already created ontology), [SPARQLWrapper](https://pypi.org/project/SPARQLWrapper/) (connection to an SPARQL Endpoint), [RDFlib](https://pypi.org/project/rdflib/) (manipulation and access of local RDF graphs), [OWL-RL](https://pypi.org/project/owlrl/5.2.1/) (very easy to expand and RDF graph with RDFS or OWL 2 RL entailments), [OWL2Vec*](https://github.com/KRR-Oxford/OWL2Vec-Star) (entity and lexical embeddings from OWL 2 ontologies).
+
 
 Coursework: [description](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Coursework.pdf), [data](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_coursework_data_pizza_8358_1_reduced.csv).
 
