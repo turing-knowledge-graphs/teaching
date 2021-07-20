@@ -1,3 +1,5 @@
+## Relevant resources
+
 **Core books:**  
 
 *   Dean Allemang, James Hendler. Semantic Web for the Working Ontologist: Effective Modeling in RDFS and OWL. Morgan Kaufmann. [Book 2nd Edition](http://www.kevenlw.name/downloads/Ontologist.pdf). 3rd Edition has been released in 2020, it contains many interesting updates.
