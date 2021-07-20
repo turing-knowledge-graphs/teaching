@@ -9,13 +9,30 @@
 
 *   Ilaria Maresi. A data engineer's guide to semantic modelling. [https://doi.org/10.5281/zenodo.3898518](https://doi.org/10.5281/zenodo.3898518)
 
-**Relevant Module**
 
-*   INF4580 – Semantic technologies by [Prof. Martin Giese](https://www.mn.uio.no/ifi/english/people/aca/martingi/) and others (University of Oslo). The material in some lectures relies on this module, but with a different organization: [https://www.uio.no/studier/emner/matnat/ifi/INF4580/](https://www.uio.no/studier/emner/matnat/ifi/INF4580/)
-    
+
+**Additional books:**  
+
+*   C. Maria Keet. An Introduction to Ontology Engineering. v1.5, 2020  
+    [https://people.cs.uct.ac.za/~mkeet/files/OEbook.pdf](https://people.cs.uct.ac.za/~mkeet/files/OEbook.pdf)
+
+*   Baader et al. [The Description Logic handbook: Theory, implementation, and applications](https://www.researchgate.net/publication/230745455_The_Description_Logic_Handbook_Theory_Implementation_and_Applications). Publisher: Cambridge University Press, 2nd Edition. 2007.
 
   
 
+
+**Relevant Module**
+
+*   INF4580 – Semantic technologies by [Prof. Martin Giese](https://www.mn.uio.no/ifi/english/people/aca/martingi/) and others (University of Oslo). The material in some lectures relies on this module, but with a different organization: [https://www.uio.no/studier/emner/matnat/ifi/INF4580/](https://www.uio.no/studier/emner/matnat/ifi/INF4580/)
+  
+  
+
+**Knowledge Scientist:**  
+
+*   George Fletcher, Paul Groth, Juan Sequeda. Knowledge Scientists: Unlocking the data-driven organization. CoRR abs/2004.07917 (2020): [https://arxiv.org/abs/2004.07917](https://arxiv.org/abs/2004.07917)  
+      
+
+ 
 **Semantic Web review:**  
 
 *   Pascal Hitzler. A Review of the Semantic Web Field. Communications of the ACM 2021. [https://cacm.acm.org/magazines/2021/2/250085-a-review-of-the-semantic-web-field/fulltext](https://cacm.acm.org/magazines/2021/2/250085-a-review-of-the-semantic-web-field/fulltext). 
@@ -30,22 +47,47 @@
       
     
 
-**Description Logics:**
+**Description Logics and OWL (advance resources):**
 
 *   Markus Krötzsch, Frantisek Simancik, Ian Horrocks. A Description Logic Primer. 2012: [https://arxiv.org/pdf/1201.4089.pdf](https://arxiv.org/pdf/1201.4089.pdf)
+*   Seminars from Prof. Ian Horrocks: [http://www.cs.ox.ac.uk/people/ian.horrocks/Seminars/seminars.html](http://www.cs.ox.ac.uk/people/ian.horrocks/Seminars/seminars.html)      
+*   Markus Krötzsch. OWL 2 Profiles: An Introduction to Lightweight Ontology Languages (only an overview). [PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.649.1727&rep=rep1&type=pdf)
 
 
-**Knowledge Scientist:**  
-
-*   George Fletcher, Paul Groth, Juan Sequeda. Knowledge Scientists: Unlocking the data-driven organization. CoRR abs/2004.07917 (2020): [https://arxiv.org/abs/2004.07917](https://arxiv.org/abs/2004.07917)  
-      
     
 
 **Semantic Web Standards:**  
 
 *   W3C Semantic Web Standards: [https://www.w3.org/2001/sw/wiki/Main\_Page](https://www.w3.org/2001/sw/wiki/Main_Page)  
         
+
+
+
+**Generation of Knowledge Graphs from Tabular Data**
+
+* Relevant tools and resources: [https://rml.io/](https://rml.io/)
+
+
+**Ontology Alignment**
     
+* There is an extensive literature about ontology matching/alignment. More recently also referred to as knowledge graph alignment. Many references (but not all) [here](http://ontologymatching.org/publications.html).
+
+* SWAT4HCLS Tutorial 2019: [Ontology Matching in the Biomedical Domain](https://drive.google.com/file/d/1hg3CqTk-snO3hmdyPbcn1_mVk-VJ0Inj/view?usp=sharing).
+
+* P. Shvaiko, J. Euzenat:  Ontology matching: state of the art and future challenges.  IEEE TKDE 2013: [https://hal.inria.fr/hal-00917910/document](https://hal.inria.fr/hal-00917910/document)
+
+* Daniel Faria, Catia Pesquita, Isabela Mott, Catarina Martins, Francisco M. Couto & Isabel F. Cruz. Tackling the challenges of matching biomedical ontologies. Journal of Biomedical Semantics 2018. [Paper](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-017-0170-9)
+
+
+**Ontology Embeddings**
+
+*   Michael van Bekkum et al. Modular Design Patterns for Hybrid Learning and Reasoning Systems: a taxonomy, patterns and use cases. [CoRR abs/2102.11965](https://arxiv.org/abs/2102.11965). Under review (2021)  
+    *   [Video](https://www.youtube.com/watch?v=2uYC0UIbMp8)
+    *   [Slides](https://www.slideshare.net/Frank.van.Harmelen/modular-design-patterns-for-systems-that-learn-and-reason-a-boxology)  
+    
+*   Jiaoyan Chen et al. OWL2Vec\*: Embedding of OWL Ontologies. [CoRR abs/2009.14654](https://arxiv.org/abs/2009.14654). Machine Learning Journal (2021)      
+*   Erik B. Myklebust et al. Prediction of Adverse Biological Effects of Chemicals Using Knowledge Graph Embeddings. [Under review](http://www.semantic-web-journal.net/system/files/swj2658.pdf). 2021.
+
 
 **Tutorials:**
 
@@ -60,15 +102,6 @@
     *   Protégé ontology editor: [https://protege.stanford.edu/](https://protege.stanford.edu/)
 
 
-
-**Additional books:**  
-
-*   C. Maria Keet. An Introduction to Ontology Engineering. v1.5, 2020  
-    [https://people.cs.uct.ac.za/~mkeet/files/OEbook.pdf](https://people.cs.uct.ac.za/~mkeet/files/OEbook.pdf)
-
-*   Baader et al. The Description Logic handbook: Theory, implementation, and applications. Publisher: Cambridge University Press, 2nd Edition. 2007. [https://www.researchgate.net/publication/230745455\_The\_Description\_Logic\_Handbook\_Theory\_Implementation\_and\_Applications](https://www.researchgate.net/publication/230745455_The_Description_Logic_Handbook_Theory_Implementation_and_Applications)
-
-  
 **Relevant Keynotes:**
 
 *   Jérôme Euzenat. **For Knowledge**. International Semantic Web Conference 2019. [https://www.youtube.com/watch?v=A3WNMn6gKKc](https://www.youtube.com/watch?v=A3WNMn6gKKc)
