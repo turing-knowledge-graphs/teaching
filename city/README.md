@@ -37,3 +37,8 @@ Suggested [reading list](https://github.com/turing-knowledge-graphs/teaching/blo
 - [DBPedia](https://dbpedia.org/sparql)
 - [OAEI datasets](http://oaei.ontologymatching.org/) (ontology alignment)
 
+
+---
+
+<img src="city-logo.jpg" width="60" alt="City">   [City, University of London](https://www.city.ac.uk/)
+
