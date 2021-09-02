@@ -8,7 +8,7 @@ Module delivered to MSc students in [Data Science](https://www.city.ac.uk/prospe
 
 Suggested [reading list](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/ReadingList.md).
 
-Recording of the lecturers available [here](https://drive.google.com/drive/folders/1EWaxhliKGWNbYGC0AfKExunuskX6O3MM?usp=sharing)
+Recordings of the lectures available [here](https://drive.google.com/drive/folders/1EWaxhliKGWNbYGC0AfKExunuskX6O3MM?usp=sharing).
 
 #### Lectures
 
