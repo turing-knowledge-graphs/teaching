@@ -2,7 +2,7 @@
 
 - [Semantic Web Technologies and Knowledge Graphs](https://github.com/turing-knowledge-graphs/teaching/tree/main/city). MSc/BSc module at City, University of London.
 - [Big Data Management](https://github.com/turing-knowledge-graphs/teaching/tree/main/hwu). MSc/BSc modules at Heriot-Watt University, Edinburgh.
-- [Semantic Web, Linked Data and Knowledge Graphs](https://github.com/turing-knowledge-graphs/teaching/tree/main/city). BSc module at Universidad Politécnica de Madrid, Spain
+- [Semantic Web, Linked Data and Knowledge Graphs](https://github.com/turing-knowledge-graphs/teaching/tree/main/upm). BSc module at Universidad Politécnica de Madrid, Spain
 
 
 ---
