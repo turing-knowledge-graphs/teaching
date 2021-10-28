@@ -5,12 +5,12 @@
 <h4><a id="user-content-lectures" class="anchor" href="https://github.com/turing-knowledge-graphs/teaching/tree/main/city#lectures" aria-hidden="true"></a>Lectures</h4>
 <ol>
 <li>Introduction to Semantic Web.</li>
-<li>RDF- The basis of Semantic Web.&nbsp;&nbsp;<a href="https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_RDF_Knowledge_Graphs.pdf">Slides</a>.&nbsp;<a href="https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Lab_Session2.pdf">Laboratory</a>.</li>
+<li>RDF- The basis of Semantic Web.
 <li>RDFS Semantics.</li>
 <li>Querying the Semantic Web with SPARQL&nbsp;</li>
 <li>OWL Ontology Language&nbsp;</li>
 <li>Ontology Engineering</li>
-<li>NLP and Ontologies</li>
+<li>NLP and Ontologies&nbsp;&nbsp;<a href="">Slides</a>.&nbsp;.</li>
 <li>Rules, SWRL and SHACL</li>
 <li>Graph Databases</li>
 <li>Case study in Architecture, Engineering, and Construction domain</li>
