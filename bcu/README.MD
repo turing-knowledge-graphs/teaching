@@ -10,7 +10,7 @@
 <li>Querying the Semantic Web with SPARQL&nbsp;</li>
 <li>OWL Ontology Language&nbsp;</li>
 <li>Ontology Engineering</li>
-<li>NLP and Ontologies&nbsp;&nbsp;<a href="">Slides</a>.&nbsp;.</li>
+<li>NLP and Ontologies&nbsp;&nbsp;<a href="https://github.com/EdliraK/teaching/blob/main/bcu/NLP-The%20Power%20of%20Words.pdf">Slides</a>.&nbsp;.</li>
 <li>Rules, SWRL and SHACL</li>
 <li>Graph Databases</li>
 <li>Case study in Architecture, Engineering, and Construction domain</li>
