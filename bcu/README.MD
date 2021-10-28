@@ -1,6 +1,7 @@
 <h2>Semantic Web and Knowledge Engineering (CMP7173)</h2>
-<p>Module leader: Edlira Vakaj</p>
-<p><a id="user-content-academic-year-2020-2021" class="anchor" href="https://github.com/turing-knowledge-graphs/teaching/tree/main/city#academic-year-2020-2021" aria-hidden="true"></a>Academic year 2021-2022:</p>
+<p>Module leader: Edlira Vakaj Module tutor: Amna Dridi</p>
+<p><b>Academic year 2021-2022</b> (to be completed):</p>
+  
 <p>Module delivered to MSc students in Advanced Computer Science.</p>
 <h3>Core books:</h3>
 <ul>
@@ -16,8 +17,8 @@
 <li>OWL Ontology Language.&nbsp;</li>
 <li>Ontology Engineering.</li>
 <li>NLP and Ontologies.<a href="https://github.com/EdliraK/teaching/blob/main/bcu/NLP-The%20Power%20of%20Words.pdf">&nbsp;Slides</a>.</li>
-<li>Rules, SWRL and SHACL</li>
-<li>Graph Databases</li>
+<li>Rules, SWRL and SHACL.</li>
+<li>Graph Databases.</li>
 <li><a href="http://ceur-ws.org/Vol-2887/paper1.pdf">Case study: Semantic Digital Twins in Industrialised Construction</a></li>
 </ol>
 <h4><a id="user-content-datasets" class="anchor" href="https://github.com/turing-knowledge-graphs/teaching/tree/main/city#datasets" aria-hidden="true"></a>Datasets</h4>
