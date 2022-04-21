@@ -2,9 +2,11 @@
 
 Module leader: [Ernesto Jimenez-Ruiz](https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz)
 
+*2022 content will be available soon.*
+
 ### Academic year 2020-2021: 
 
-Module delivered to MSc students in [Data Science](https://www.city.ac.uk/prospective-students/courses/postgraduate/data-science) (INM713).
+Module delivered to MSc students in [Data Science](https://www.city.ac.uk/prospective-students/courses/postgraduate/data-science) (INM713) at City, University of London.
 
 Suggested [reading list](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/ReadingList.md).
 
