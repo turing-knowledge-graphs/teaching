@@ -4,7 +4,7 @@
 - [Big Data Management](https://github.com/turing-knowledge-graphs/teaching/tree/main/hwu). MSc/BSc modules at Heriot-Watt University, Edinburgh.
 - [Semantic Web, Linked Data and Knowledge Graphs](https://github.com/turing-knowledge-graphs/teaching/tree/main/upm). BSc module at Universidad Politécnica de Madrid, Spain
 - [Semantic Web and Knowledge Engineering](https://github.com/turing-knowledge-graphs/teaching/tree/main/bcu). MSc module at Birmingham City University.
-- [TU Dresden KG course](https://iccl.inf.tu-dresden.de/web/Knowledge_Graphs_(WS2020)/en)
+- [Knowledge Graphs](https://iccl.inf.tu-dresden.de/web/Knowledge_Graphs_(WS2020)/en). TU Dresden, Germany
 
 ---
 
