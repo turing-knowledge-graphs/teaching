@@ -5,7 +5,7 @@
 - [Semantic Web, Linked Data and Knowledge Graphs](https://github.com/turing-knowledge-graphs/teaching/tree/main/upm). BSc module at Universidad Politécnica de Madrid, Spain
 - [Semantic Web and Knowledge Engineering](https://github.com/turing-knowledge-graphs/teaching/tree/main/bcu). MSc module at Birmingham City University.
 - [Knowledge Graphs](https://iccl.inf.tu-dresden.de/web/Knowledge_Graphs_(WS2020)/en). TU Dresden, Germany
-- [Knowledge Graphs](https://opencourse.inf.ed.ac.uk/kg)). University of Edinburgh, UK
+- [Knowledge Graphs](https://opencourse.inf.ed.ac.uk/kg). University of Edinburgh, UK
 
 ---
 
