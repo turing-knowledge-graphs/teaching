@@ -2,7 +2,7 @@
 
 Module leader: [Ernesto Jimenez-Ruiz](https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz)
 
-### Academic year 2023-2023: 
+### Academic year 2023-2024: 
 
 Module delivered to UG students in Computer Science (IN3067) and MSc students (INM713) in [Data Science](https://www.city.ac.uk/prospective-students/courses/postgraduate/data-science) and [Software Engineering with Cloud Computing](https://www.city.ac.uk/prospective-students/courses/postgraduate/software-engineering) at City, University of London.
 
@@ -12,16 +12,16 @@ Recordings of the lectures available [here](https://drive.google.com/drive/folde
 
 #### Lectures
 
-1. Introduction: Becoming a Knowledge Scientist. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Introduction_Knowledge_Scientist_slides.pdf). [Report](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Introduction_Knowledge_Scientist.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Lab_Session1.pdf).
-2. RDF-based Knowledge Graphs. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_RDF_Knowledge_Graphs.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Lab_Session2.pdf).
-3. SPARQL Query Language. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_SPARQL1.0.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Lab_Session3.pdf).
-4. RDFS Semantics. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_RDFS_Semantics.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Lab_Session4.pdf).
-5. OWL Ontology Language. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_OWL_Language.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Lab_Session5.pdf).
-6. Applications to Data Science. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_CSV_to_KG.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Lab_Session6.pdf).
-7. OWL 2 Profiles, SPARQL 1.1 and Entailment Regimes. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_OWL2Profiles_SPARQL1.1.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Lab_Session7.pdf).
-8. Ontology (Knowledge Graph) Alignment. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Ontology_Alignment.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Lab_Session8.pdf).
-9. Ontology (Knowledge Graph) Embeddings. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Ontology_Embeddings.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Lab_Session9.pdf).
-10. Overview of Graph Databases and Triplestores. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Overview_Graph_Databases.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Lab_Session10.pdf).
+1. Introduction: Becoming a Knowledge Scientist. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/INM713_Introduction_Knowledge_Scientist_slides.pdf). [Report](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/INM713_Introduction_Knowledge_Scientist.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/IN3067-INM713_Lab_Session1_Infrastructure_2024.pdf).
+2. RDF-based Knowledge Graphs. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/INM713_RDF_Knowledge_Graphs.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/IN3067-INM713_Lab_Session2_RDF_2024_with_solutions.pdf).
+3. OWL Ontology Language. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/INM713_SPARQL1.0.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/IN3067-INM713_Lab_Session3_OWL.pdf).
+4. SPARQL Query Language. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/INM713_RDFS_Semantics.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/IN3067-INM713_Lab_Session4_SPARQL1_with_solutions.pdf).
+5. From Tabular Data to Knowledge Graphs. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/INM713_OWL_Language.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/IN3067-INM713_Lab_Session5_CSV2KG_with_solutions.pdf).
+6. RDFS Semantics and OWL 2 Profiles. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/INM713_CSV_to_KG.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/IN3067-INM713_Lab_Session6_RDFS_OWL2RL_2024_with_solutions.pdf).
+7. SPARQL 1.1, Rules and Graph Database solutions. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/INM713_OWL2Profiles_SPARQL1.1.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/IN3067-INM713_Lab_Session7_SPARQL1.1_GraphDB_2024_with solutions.pdf).
+8. Ontology (Knowledge Graph) Alignment. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/INM713_Ontology_Alignment.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/IN3067-INM713_Lab_Session8_KGAlignment_2024.pdf).
+9. Ontology (Knowledge Graph) Embeddings. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/INM713_Ontology_Embeddings.pdf). [Laboratory](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/IN3067-INM713_Lab_Session9_OWL2Vec-Star.pdf).
+10. Knowledge Graphs and Language Models. [Slides](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/INM713_Overview_Graph_Databases.pdf). [Laboratory (optional): exploring the DeepOnto library](https://github.com/KRR-Oxford/DeepOnto).
 
 #### Labs with solutions (python and java): 
 - [https://github.com/city-knowledge-graphs](https://github.com/city-knowledge-graphs)
