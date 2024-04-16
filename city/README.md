@@ -2,15 +2,13 @@
 
 Module leader: [Ernesto Jimenez-Ruiz](https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz)
 
-*2023 content will be available soon.*
+### Academic year 2023-2023: 
 
-### Academic year 2020-2021: 
-
-Module delivered to MSc students in [Data Science](https://www.city.ac.uk/prospective-students/courses/postgraduate/data-science) (INM713) at City, University of London.
+Module delivered to UG students in Computer Science (IN3067) and MSc students (INM713) in [Data Science](https://www.city.ac.uk/prospective-students/courses/postgraduate/data-science) and [Software Engineering with Cloud Computing](https://www.city.ac.uk/prospective-students/courses/postgraduate/software-engineering) at City, University of London.
 
 Suggested [reading list](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/ReadingList.md).
 
-Recordings of the lectures available [here](https://drive.google.com/drive/folders/1EWaxhliKGWNbYGC0AfKExunuskX6O3MM?usp=sharing).
+Recordings of the lectures available [here](https://drive.google.com/drive/folders/1RYVjf6nauHCsgdnReE-ziLbHVqGu0W2m?usp=sharing).
 
 #### Lectures
 
@@ -31,7 +29,7 @@ Recordings of the lectures available [here](https://drive.google.com/drive/folde
   - ***Java***: [Jena](https://jena.apache.org/index.html): complete library to create RDF triples, execute SPARQL queries, access ontology data, perform RDFS and OWL reasoning (although not built-in OWL 2 reasoning).
   - ***Python***: [Owlready2](https://pypi.org/project/Owlready2/) (good option to access an already created ontology), [SPARQLWrapper](https://pypi.org/project/SPARQLWrapper/) (connection to an SPARQL Endpoint), [RDFlib](https://pypi.org/project/rdflib/) (manipulation and access of local RDF graphs), [OWL-RL](https://pypi.org/project/owlrl/5.2.1/) (very easy to expand and RDF graph with RDFS or OWL 2 RL entailments), [OWL2Vec*](https://github.com/KRR-Oxford/OWL2Vec-Star) (entity and lexical embeddings from OWL 2 ontologies).
 - [Protége](https://protege.stanford.edu/) is used as ontology editor.
-- Coursework: [description](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_Coursework.pdf), [data](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2020-2021/INM713_coursework_data_pizza_8358_1_reduced.csv).
+- Coursework: [description and datasets](https://drive.google.com/drive/folders/1WlINYleyUdV-rQst8qqBefiixwv9yGvR?usp=sharing).
 
 
 #### Datasets 
