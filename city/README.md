@@ -4,7 +4,7 @@ Module leader: [Ernesto Jimenez-Ruiz](https://www.city.ac.uk/about/people/academ
 
 ### Academic year 2023-2024: 
 
-Module delivered to UG students in Computer Science (IN3067) and MSc students (INM713) in [Data Science](https://www.city.ac.uk/prospective-students/courses/postgraduate/data-science) and [Software Engineering with Cloud Computing](https://www.city.ac.uk/prospective-students/courses/postgraduate/software-engineering) at City, University of London.
+Module delivered to UG students in [Computer Science](https://www.city.ac.uk/prospective-students/courses/undergraduate/computer-science) (IN3067) and MSc students (INM713) in [Data Science](https://www.city.ac.uk/prospective-students/courses/postgraduate/data-science) and [Software Engineering with Cloud Computing](https://www.city.ac.uk/prospective-students/courses/postgraduate/software-engineering) at City, University of London.
 
 Suggested [reading list](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/ReadingList.md).
 
