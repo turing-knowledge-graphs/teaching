@@ -19,4 +19,4 @@ Lecturers: [Uli Sattler](http://www.cs.man.ac.uk/~sattler/) & [Jiaoyan Chen](htt
 
 ---
 
-<img src="uom-logo.png" width="60" alt="UoM">   [The University of Manchester](https://www.manchester.ac.uk/)
+<img src="uom-logo.png" width="150" alt="UoM">  
