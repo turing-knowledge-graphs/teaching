@@ -1,7 +1,7 @@
 ## Teaching repository
 
 - [Knowledge Graphs for AI Systems](https://www.southampton.ac.uk/courses/modules/comp6256). BSc/MSc module at the University of Southampton, UK.
-- [Semantic Web Technologies and Knowledge Graphs](https://github.com/turing-knowledge-graphs/teaching/tree/main/city). MSc/BSc module at City, University of London.
+- [Semantic Web Technologies and Knowledge Graphs](https://github.com/turing-knowledge-graphs/teaching/tree/main/city). MSc/BSc module at City St George's, University of London.
 - [Big Data Management](https://github.com/turing-knowledge-graphs/teaching/tree/main/hwu). MSc/BSc modules at Heriot-Watt University, Edinburgh.
 - [Semantic Web, Linked Data and Knowledge Graphs](https://github.com/turing-knowledge-graphs/teaching/tree/main/upm). BSc module at Universidad Politécnica de Madrid, Spain
 - [Semantic Web and Knowledge Engineering](https://github.com/turing-knowledge-graphs/teaching/tree/main/bcu). MSc module at Birmingham City University.
